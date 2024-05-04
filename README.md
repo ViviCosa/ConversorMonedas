@@ -2,12 +2,14 @@
 
 *[Descripción del proyecto](#descripción-del-proyecto)* 
 
-*[Estado del proyecto](#Estado-del-proyecto)
+  Este proyecto es un conversor de monedas en tiempo real, interactivo con el usuario, que utiliza el API de ExchangeRate-API.com para obtener tasas de cambio actualizadas. Permite a los usuarios solicitar una cantidad específica en una moneda base y ver la conversión a una moneda objetivo en la consola.
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+*[Estado del proyecto](#Estado-del-proyecto)*
 
-*[Acceso al proyecto](#acceso-proyecto)
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)*
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+*[Acceso al proyecto](#acceso-proyecto)*
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+*[Tecnologías utilizadas](#tecnologías-utilizadas)*
+
+*[Personas Contribuyentes](#personas-contribuyentes)*
